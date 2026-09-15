@@ -1,0 +1,13 @@
+{
+  "name": "webbureau-bouwpakket",
+  "owner": {
+    "name": "ZakelijkGroeien.nl"
+  },
+  "plugins": [
+    {
+      "name": "contextdocument",
+      "source": "./plugins/contextdocument",
+      "description": "De Context-skill: begeleide intake voor je website, resultaat is één contextdocument voor Claude Design en je teksten."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "contextdocument",
+  "description": "De Context-skill uit het Webbureau Bouwpakket: begeleide intake die één contextdocument oplevert als basis voor Claude Design en je webteksten.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Stefano, ZakelijkGroeien.nl"
+  }
+}
