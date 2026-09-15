@@ -1,5 +1,6 @@
 {
   "name": "webbureau-bouwpakket",
+  "description": "Skills voor Claude uit het Webbureau Bouwpakket van ZakelijkGroeien.nl.",
   "owner": {
     "name": "ZakelijkGroeien.nl"
   },

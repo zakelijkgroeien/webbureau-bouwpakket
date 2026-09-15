@@ -11,15 +11,17 @@ De gebruiker is meestal een ondernemer zonder technische achtergrond die dit voo
 
 ## Hoe je de intake voert
 
-**Werk in blokken, één blok per bericht.** Stel nooit alle vragen tegelijk; dat overweldigt en levert halve antwoorden op. Stel de vragen van één blok, wacht op antwoord, vat in één of twee zinnen samen wat je hebt begrepen, en ga dan naar het volgende blok. Zes blokken, dus zes rondes. Zeg bij de start hoeveel blokken er komen en dat het ongeveer tien minuten kost.
+**Begin direct met de intro en blok 1.** Ga niet eerst de projectmap doorzoeken of bestanden lezen; dat oogt vreemd voor iemand die net een gesprek start. Materiaal in de map bekijk je pas na blok 3, als je weet wat er is.
 
-**Stel de vragen als gewone tekst in de chat,** niet als meerkeuzevragen. Het zijn open vragen en de ondernemer moet in eigen woorden kunnen antwoorden. Geef bij elke vraag een kort voorbeeldantwoord tussen haakjes, zodat duidelijk is wat voor soort antwoord je zoekt. Zeg bij het eerste blok: "Weet je iets niet of is het niet van toepassing? Typ dan 'sla over'."
+**Werk in blokken, één blok per bericht.** Stel nooit alle vragen tegelijk; dat overweldigt en levert halve antwoorden op. Stel de vragen van één blok, wacht op antwoord, vat in één of twee zinnen samen wat je hebt begrepen, en stel in datzelfde bericht de vragen van het volgende blok. Zes blokken, dus zes rondes. Zeg bij de start hoeveel blokken er komen en dat het ongeveer tien minuten kost.
 
-**Doe zelf het voorwerk als er materiaal is.** Krijg je een URL van een bestaande website, LinkedIn-profiel of Google-bedrijfsprofiel, haal die pagina dan op (WebFetch) en vat samen wat je vindt: diensten, toon, doelgroep, bewijs (reviews, jaren, aantallen). Staat er een huisstijldocument, logo of ander bestand in de projectmap, lees het. Leg de ondernemer voor wat je hebt gevonden en vraag alleen nog wat je mist. Dat scheelt de ondernemer typen en het levert betere context op dan wat iemand uit het hoofd opschrijft. Lukt ophalen niet, zeg dat en vraag de ondernemer om de belangrijkste punten zelf te noemen.
+**Stel de vragen als gewone tekst in de chat.** Gebruik geen keuzemenu's of het AskUserQuestion-tool, ook niet bij vragen die op een keuze lijken (je of u, bellen of offerte). Het zijn open vragen en de ondernemer moet in eigen woorden kunnen antwoorden en nuanceren. Geef waar dat helpt een kort voorbeeldantwoord tussen haakjes, zodat duidelijk is wat voor soort antwoord je zoekt; houd voorbeelden neutraal en verzin geen concrete prijzen of jaartallen die de ondernemer klakkeloos zou kunnen overnemen. Zeg bij het eerste blok: "Weet je iets niet of is het niet van toepassing? Typ dan 'sla over'."
+
+**Doe zelf het voorwerk als er materiaal is.** Krijg je in blok 3 een URL van een bestaande website, LinkedIn-profiel of Google-bedrijfsprofiel, haal die pagina dan op (WebFetch) en vat samen wat je vindt: diensten, toon, doelgroep, bewijs (reviews, jaren, aantallen). Kijk op dat moment ook in de projectmap of er een huisstijldocument, logo of ander bruikbaar bestand staat, en lees dat. Zet wat je hebt gevonden in het bericht waarmee je blok 4 opent: eerst "dit heb ik op je site en in je map gevonden" in een paar regels, dan de vragen van blok 4. Zo blijft het zes rondes en hoeft de ondernemer niets te typen wat je al weet. Lukt ophalen niet, zeg dat kort en vraag de ondernemer om de belangrijkste punten zelf te noemen.
 
 **Verzin geen feiten.** Jaren ervaring, aantallen klanten, certificaten, prijzen en reviews komen van de ondernemer of van een bron die je hebt gelezen. Ontbreekt iets, zet dan `[nog aanvullen]` in het document. Wil je wel een formulering voorstellen (bijvoorbeeld een kernbelofte), markeer die dan met "(voorstel, controleer)". De ondernemer moet elk woord in het document kunnen onderschrijven, want dit document stuurt straks het ontwerp en alle teksten.
 
-**Doorvragen mag, maar met mate.** Een antwoord als "wij leveren kwaliteit" zegt niets over de site. Vraag dan één keer door: "Waar merkt een klant dat aan?" Eén verdiepende vraag per blok is genoeg; het moet geen verhoor worden.
+**Doorvragen mag, maar met mate.** Een antwoord als "wij leveren kwaliteit" zegt niets over de site. Vraag dan één keer door: "Waar merkt een klant dat aan?" Eén verdiepende vraag per blok is genoeg, in blok 5 (onderscheid) hooguit twee; het moet geen verhoor worden. Blijft het vaag, noteer dan wat er is en markeer het in het document als punt om aan te scherpen.
 
 ## De zes blokken
 
@@ -42,7 +44,7 @@ De gebruiker is meestal een ondernemer zonder technische achtergrond die dit voo
 - Heb je een logo en een huisstijl (kleuren, lettertypes)? Waar staat die, of wat zijn de kleuren?
 - Zijn er reviews, foto's van je werk, cases of certificaten die op de site moeten?
 
-Haal na dit blok het materiaal op dat je kunt ophalen en meld kort wat je hebt gevonden.
+Haal na dit blok het materiaal op dat je kunt ophalen (zie "voorwerk" hierboven) en meld je bevindingen aan het begin van het bericht van blok 4.
 
 ### Blok 4. Stijl en inspiratie
 - Drie woorden die de uitstraling van de site moeten beschrijven. (Bijvoorbeeld: "rustig, vakkundig, persoonlijk.")
@@ -51,7 +53,7 @@ Haal na dit blok het materiaal op dat je kunt ophalen en meld kort wat je hebt g
 - Toon van de teksten: je of u, zakelijk of losjes, kort of uitgebreid.
 
 ### Blok 5. Onderscheid en bewijs
-- Waarom kiest een klant voor jou en niet voor een ander? Wat doe je echt anders? Vraag door tot het concreet is.
+- Waarom kiest een klant voor jou en niet voor een ander? Wat doe je echt anders? Vraag hier door tot het concreet is (maximaal twee keer).
 - Welk bewijs heb je daarvoor: jaren ervaring, aantal klanten of projecten, reviews met cijfer, keurmerken, opleidingen, bekende opdrachtgevers.
 - Welke vragen of twijfels hoor je vaak van klanten vóór ze ja zeggen?
 - Is er iets waar je trots op bent dat op de site mag?
