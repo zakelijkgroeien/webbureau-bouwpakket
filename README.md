@@ -38,4 +38,4 @@ Komt er een nieuwe versie van een skill, dan haal je die op met:
 
 ## Vragen
 
-Stel ze in het wekelijkse Bouwuur of mail naar stefano@zakelijkgroeien.nl.
+Stel ze in het wekelijkse Bouwuur.
